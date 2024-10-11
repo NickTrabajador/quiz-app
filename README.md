@@ -24,7 +24,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-Iniciar Proyecto
+Iniciar Proyecto:
+
 Primero poner en la terminal npm install
 
 Segundo poner en la terminal npm start y listo.
